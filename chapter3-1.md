@@ -34,10 +34,10 @@
 
 配合会计五大基本会计科目，可以将借贷看作是不同会计科目在会计实践中的操作
 
-|Account|Debits|Credits|
-|:---|:---:|:---:|
-|Asset|+|-|
-|Liability|-|+|
-|Income/Revenue|-|+|
-|Expense|+|-|
-|Equity/Capital|-|+|
+| Account          | Debits | Credits |
+| :--------------- | :----: | :-----: |
+| Asset—A          |   +    |    -    |
+| Liability—L      |   -    |    +    |
+| Income/Revenue—I |   -    |    +    |
+| Expense---Ex     |   +    |    -    |
+| Equity/Capital—E |   -    |    +    |
