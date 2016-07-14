@@ -35,3 +35,6 @@
   - [对帐和结帐](chapter7-4.md)
   - [错帐查找与更正](chapter7-5.md)
   - [会计账簿的更换与保管](chapter7-6.md)
+- [帐务处理程序](chapter8.md)
+- [财产清查](chapter9.md)
+- [财务会计报告](chapter10.md)
